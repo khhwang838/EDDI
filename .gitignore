@@ -5,3 +5,10 @@
 # ignore intellij files
 .idea/
 *.iml
+
+# ignore eclipse files (2018-01-09)
+.project
+.settings
+/*/.settings
+/*/.classpath
+/*/.project
